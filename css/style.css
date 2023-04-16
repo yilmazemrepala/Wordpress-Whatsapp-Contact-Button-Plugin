@@ -1,0 +1,21 @@
+/* CSS */
+.button {
+	width: 55px;
+	height: 55px;
+	display: inline-block;
+	position: fixed;
+	bottom: 30px;
+	right: 20px;
+	background-color: #25d366;
+	color: #fff;
+	border-radius: 50%;
+	text-align: center;
+	box-shadow: 2px 2px 3px #999;
+	z-index: 1000;
+	font-size: 30px;
+}
+
+.button:hover {
+	background-color: #128c7e;
+	cursor: pointer;
+}
